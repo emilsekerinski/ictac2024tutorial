@@ -2,9 +2,7 @@
 
 *Emil Sekerinski, November 2024*
 
-**Tutorial presented at [ICTAC 2024](https://ictac2024.cs.ait.ac.th/)**  
-**Run in a web browser: https://emilsekerinski.github.io/ictac2024tutorial**  
-**GitHub source: https://github.com/emilsekerinski/ictac2024tutorial**
+**Training lecture presented at [ICTAC 2024](https://ictac2024.cs.ait.ac.th/)**  
 
 This training lecture provides an introduction to the classical theory of program correctness:
 - Sequential programming
@@ -36,6 +34,7 @@ The lecture notes come as Jupyter notebooks. There are several ways to run the n
 | Other languages         | no                 | via shell any language:<br>Java, Go, C, ... | via shell any language:<br>Java, Go, C, ...                                                                                                         |                                                                                                              |
 
 (*) Point browser to [emilsekerinski.github.io/ictac2024tutorial](https://emilsekerinski.github.io/ictac2024tutorial)  
-(**) Run `pip install jupyter` (`pip3 install jupyter` in macOS) after installing [Python](https://python.org)
+(**) Run `pip install jupyter` (`pip3 install jupyter` in macOS) after installing [Python](https://python.org); download `content` from [github.com/emilsekerinski/ictac2024tutorial](https://github.com/emilsekerinski/ictac2024tutorial)
+
 
 Juypter has two user interfaces: Classic Jupyter (one notebook per browser window) and JupyterLab (multiple notebooks per browser window). This tutorial uses *JupyterLite* with *JupyterLab*.
