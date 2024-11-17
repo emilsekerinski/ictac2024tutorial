@@ -1,9 +1,9 @@
-# A Formal Look at Programming – or –<br>The Disappearing Formal Method
+# A Formal Look at Programming
 
 *Emil Sekerinski, November 2024*
 
 **Tutorial presented at [ICTAC 2024](https://ictac2024.cs.ait.ac.th/)**  
-**Run in a web browser: https://emilsekerinski.github.io/ictac2024tutorial**
+**Run in a web browser: https://emilsekerinski.github.io/ictac2024tutorial**  
 **GitHub source: https://github.com/emilsekerinski/ictac2024tutorial**
 
 This training lecture provides an introduction to the classical theory of program correctness:
@@ -35,7 +35,7 @@ The lecture notes come as Jupyter notebooks. There are several ways to run the n
 | Shell commands          | no                 | yes                                         | yes                                                                                                                                                 |
 | Other languages         | no                 | via shell any language:<br>Java, Go, C, ... | via shell any language:<br>Java, Go, C, ...                                                                                                         |                                                                                                              |
 
-(*) Point browser to [emilsekerinski.github.io/ictac2024tutorial](https://emilsekerinski.github.io/ictac2024tutorial)
+(*) Point browser to [emilsekerinski.github.io/ictac2024tutorial](https://emilsekerinski.github.io/ictac2024tutorial)  
 (**) Run `pip install jupyter` (`pip3 install jupyter` in macOS) after installing [Python](https://python.org)
 
 Juypter has two user interfaces: Classic Jupyter (one notebook per browser window) and JupyterLab (multiple notebooks per browser window). This tutorial uses *JupyterLite* with *JupyterLab*.
