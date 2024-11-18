@@ -38,3 +38,5 @@ The lecture notes come as Jupyter notebooks. There are several ways to run the n
 
 
 Juypter has two user interfaces: Classic Jupyter (one notebook per browser window) and JupyterLab (multiple notebooks per browser window). This tutorial uses *JupyterLite* with *JupyterLab*.
+
+Please contact the author at [emil@mcmaster.ca](mailto:emil@mcmaster.ca) if you intend to adopt the notebooks and would like access to more exercises with solutions.
