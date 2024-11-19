@@ -22,7 +22,7 @@ The target audience is:
 The lecture notes and accompanying exercises are [Jupyter](https://jupyter.org) notebooks. There are several ways to run the notebooks:
 
 |                         | JupyterLite        | Jupyter                                     | JupyterHub                                                                                                                                          |
-|-------------------------|--------------------|---------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
+|:------------------------|:-------------------|:--------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------|
 | Installation            | no(*)              | easy(**)                                    | involved                                                                                                                                            |
 | Code runs               | in browser         | locally or remotely                         | remotely                                                                                                                                  |
 | Users                   | one                | one                                         | instructor and students                                                                                                                             |
