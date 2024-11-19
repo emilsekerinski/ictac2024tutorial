@@ -45,3 +45,4 @@ jupyterlab-night
 # bqplot
 
 Jupyterlab-symbol-algorithm-extension
+jupyterlab-deck
