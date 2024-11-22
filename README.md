@@ -19,6 +19,8 @@ The target audience is:
 - students starting with formal methods or interested in strengthening their programming,
 - instructors looking to teach a more rigorous approach to programming.
 
+The only prerequisite is a working knowledge of basic *logic* and *discrete math.*
+
 The lecture notes and accompanying exercises are [Jupyter](https://jupyter.org) notebooks. There are several ways to run the notebooks:
 
 |                         | JupyterLite        | Jupyter                                     | JupyterHub                                                                                                                                          |
