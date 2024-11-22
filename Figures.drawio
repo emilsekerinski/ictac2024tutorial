@@ -5911,10 +5911,10 @@
         <mxCell id="ftNq-n-4WXhVaudBZ8wD-696" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;p = m&amp;nbsp;× n&lt;br&gt;c = m&amp;nbsp;× n - 1&lt;/font&gt;" style="rounded=1;html=1;fillColor=#ffffff;gradientColor=none;align=center;fontColor=#AA5500;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" vertex="1" parent="1">
           <mxGeometry x="1040" y="4990" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ftNq-n-4WXhVaudBZ8wD-697" value="P" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;gradientColor=none;fontSize=14;fontColor=#d2691e;align=center;fontFamily=Noto Sans;" vertex="1" parent="1">
+        <mxCell id="ftNq-n-4WXhVaudBZ8wD-697" value="P" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;gradientColor=none;fontSize=14;fontColor=#AA5500;align=center;fontFamily=Noto Sans;" vertex="1" parent="1">
           <mxGeometry x="1260" y="4800" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ftNq-n-4WXhVaudBZ8wD-698" value="Q" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;gradientColor=none;fontSize=14;fontColor=#d2691e;align=center;fontFamily=Noto Sans;" vertex="1" parent="1">
+        <mxCell id="ftNq-n-4WXhVaudBZ8wD-698" value="Q" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;gradientColor=none;fontSize=14;fontColor=#AA5500;align=center;fontFamily=Noto Sans;" vertex="1" parent="1">
           <mxGeometry x="1260" y="4860" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ftNq-n-4WXhVaudBZ8wD-699" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="endArrow=classic;html=1;shadow=0;strokeColor=#000000;fontSize=14;fontColor=#d2691e;exitX=0.5;exitY=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;labelBorderColor=none;entryX=0.5;entryY=0;fontFamily=Noto Sans;" edge="1" parent="1" source="ftNq-n-4WXhVaudBZ8wD-697" target="ftNq-n-4WXhVaudBZ8wD-698">
